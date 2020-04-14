@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 28 15:16:21 2020
-
-@author: Dip
-"""
 
 import tensorflow as tf
 from tensorflow.keras import models, layers, utils, regularizers, metrics, optimizers, losses, Input
